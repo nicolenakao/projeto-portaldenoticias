@@ -1,0 +1,7 @@
+#featured {
+  grid-area: featured;
+  img {
+    object-fit: cover; /*pra img nao esticar*/ 
+    border-radius: 4px;
+  }
+}
